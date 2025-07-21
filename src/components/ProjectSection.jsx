@@ -4,10 +4,10 @@ const projects = [
   {
     id: 1,
     title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    description: "A beautiful roution page app using React and Tailwind.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://github.com/sodium000/QuizExam-Application",
     githubUrl: "#",
   },
   {
