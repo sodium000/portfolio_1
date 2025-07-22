@@ -3,22 +3,22 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "Demo Quiz Page Application",
     description: "A beautiful roution page app using React and Tailwind.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS"],
-    demoUrl: "https://github.com/sodium000/QuizExam-Application",
-    githubUrl: "#",
+    demoUrl: "https://quiz-exam-application.vercel.app/",
+    githubUrl: "https://github.com/sodium000/QuizExam-Application",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Password Store Application",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["javaScript", "node.js", "React.js","MongoDB"],
+    demoUrl: "https://password-store-eosin.vercel.app/",
+    githubUrl: "https://github.com/sodium000/passwordStore",
   },
   {
     id: 3,
