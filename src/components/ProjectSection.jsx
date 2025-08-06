@@ -22,13 +22,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Chat-Application",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "A real-time live chat application enabling instant messaging between users.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://chat-application-xqlu.onrender.com",
+    githubUrl: "https://github.com/sodium000/chat-application.git",
   },
 ];
 

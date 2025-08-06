@@ -31,7 +31,7 @@ const AboutSection = () => {
               </a>
 
               <a
-                href="#contact"
+                href="Tonmoy_CV.pdf"
                 download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/50 transition-colors duration-300 "
               >
