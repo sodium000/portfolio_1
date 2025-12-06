@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "ToyTopia",
-    description: "ToyTopia is a modern e-commerce platform for buying and selling toys. The application provides a seamless shopping experience with user authentication, product browsing, detailed toy information, and profile management.",
+    description: "ToyTopia is a modern e-commerce platform for buying and selling toys.",
     image: "/projects/toytopia.png",
     tags: ["HTML", "CSS", "React", "TailwindCSS", "Firbase", "React-Router"],
     demoUrl: "https://toyshop-3fb8f.firebaseapp.com/",
