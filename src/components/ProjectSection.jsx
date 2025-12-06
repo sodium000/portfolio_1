@@ -3,25 +3,60 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Demo Quiz Page Application",
-    description: "A beautiful roution page app using React and Tailwind.",
+    title: "ToyTopia",
+    description: "ToyTopia is a modern e-commerce platform for buying and selling toys. The application provides a seamless shopping experience with user authentication, product browsing, detailed toy information, and profile management.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS"],
-    demoUrl: "https://quiz-exam-application.vercel.app/",
-    githubUrl: "https://github.com/sodium000/QuizExam-Application",
+    tags: ["HTML", "CSS", "React", "TailwindCSS", "Firbase", "React-Router"],
+    demoUrl: "https://toyshop-3fb8f.firebaseapp.com/",
+    githubUrl: "https://github.com/sodium000/Toy_Topia",
   },
   {
     id: 2,
+    title: "PlateShare",
+    description: "PlateShare is a modern web application designed to connect food donors with those in need, reducing food waste and helping communities share resources.",
+    image: "/projects/project1.png",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://platshear.firebaseapp.com/",
+    githubUrl: "https://github.com/sodium000/B12-A10-Future-Box-client-",
+  },
+  {
+    id: 3,
+    title: "ItemSell",
+    description: "Hi! This is my small ItemSell web app built with Next.js. I’m still learning, so I wrote down the things that help me run and understand the project.",
+    image: "/projects/project1.png",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://next-froentend.vercel.app/",
+    githubUrl: "https://github.com/sodium000/nextFroentend",
+  },
+  {
+    id: 4,
+    title: "Green Earth",
+    description: "Plant a Tree, Grow a Future.Join our mission to plant 1 million trees and make the Earth greener for future generations.",
+    image: "/projects/project1.png",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://green-earth-assignment6-tonmoy.netlify.app/",
+    // githubUrl: "",
+  },
+  {
+    id: 5,
+    title: "HERO.IO",
+    description: "At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.",
+    image: "/projects/project1.png",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://app-hero-store.netlify.app/appdeatils/2",
+    githubUrl: "https://github.com/sodium000/app_hero_store",
+  },
+  {
+    id: 6,
     title: "Password Store Application",
-    description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+    description:"Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
-    tags: ["javaScript", "node.js", "React.js","MongoDB"],
+    tags: ["javaScript", "node.js", "React.js", "MongoDB"],
     demoUrl: "https://password-store-eosin.vercel.app/",
     githubUrl: "https://github.com/sodium000/passwordStore",
   },
   {
-    id: 3,
+    id: 7,
     title: "Chat-Application",
     description:
       "A real-time live chat application enabling instant messaging between users.",
@@ -30,6 +65,15 @@ const projects = [
     demoUrl: "https://chat-application-xqlu.onrender.com",
     githubUrl: "https://github.com/sodium000/chat-application.git",
   },
+  {
+    id: 8,
+    title: "Demo Quiz Page Application",
+    description: "A beautiful roution page app using React and Tailwind.",
+    image: "/projects/project1.png",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://quiz-exam-application.vercel.app/",
+    githubUrl: "https://github.com/sodium000/QuizExam-Application",
+  }
 ];
 
 export const ProjectsSection = () => {
